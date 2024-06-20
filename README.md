@@ -140,3 +140,10 @@ public class JuiceShopSQLiTest {
 ## Conclusion
 
 This test script demonstrates an automated approach to testing for SQL injection vulnerabilities using Selenium WebDriver. Ensure the Juice Shop application is running and accessible, and that GeckoDriver and Firefox are correctly installed and configured on your system.
+
+![login page](https://github.com/arjun98k/java_selenium_task/blob/main/login%20page.png)
+
+![invalid username password](https://github.com/arjun98k/java_selenium_task/blob/main/invalid_username_password.png)
+
+
+![sqli test logs of terminal](https://github.com/arjun98k/java_selenium_task/blob/main/logs%20of%20terminal.png)
